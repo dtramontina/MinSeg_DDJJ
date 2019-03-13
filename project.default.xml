@@ -1,0 +1,22 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" addBOMForNewFiles="with NO BOM" />
+      <component name="ProjectRootManager" version="2" project-jdk-name="Python 2.7 (venv)" project-jdk-type="Python SDK" />
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="ics" />
+      </component>
+      <component name="PyConsoleOptionsProvider">
+        <option name="myPythonConsoleState">
+          <console-settings sdk-home="C:\Users\C0c0_\venv\Scripts\python.exe">
+            <option name="mySdkHome" value="C:\Users\C0c0_\venv\Scripts\python.exe" />
+          </console-settings>
+        </option>
+      </component>
+      <component name="PyDebuggerOptionsProvider">
+        <option name="mySaveCallSignatures" value="true" />
+        <option name="mySupportGeventDebugging" value="true" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
