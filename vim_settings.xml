@@ -12,7 +12,7 @@
       <file name="/main.py" timestamp="1553150046906">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/hacklib.py" timestamp="1553151636980">
+      <file name="/hacklib.py" timestamp="1553153447011">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/Python Console" timestamp="1553150210055">
@@ -21,11 +21,11 @@
       <file name="/scratch.py" timestamp="1553150046703">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/main.py" timestamp="1553150104487">
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/main.py" timestamp="1553153652299">
         <mark key="u" line="1" column="5" />
-        <mark key="[" line="1" column="5" />
-        <mark key="]" line="1" column="5" />
-        <mark key="." line="1" column="5" />
+        <mark key="[" line="5" column="18" />
+        <mark key="]" line="5" column="18" />
+        <mark key="." line="5" column="18" />
       </file>
       <file name="$USER_HOME$/webscraper/Lib/site-packages/hacklib/hacklib.py" timestamp="1553152523666">
         <mark key="[" line="315" column="36" />
@@ -37,10 +37,10 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>n</text>
+        <text>LanSc</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>LanSc</text>
       </register>
     </registers>
     <search>
