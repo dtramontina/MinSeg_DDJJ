@@ -9,21 +9,31 @@
       <file name="/Dummy.txt" timestamp="1553149703805">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/main.py" timestamp="1553147195520">
+      <file name="/main.py" timestamp="1553150046906">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1553149805084">
+      <file name="/Python Console" timestamp="1553150210055">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/scratch.py" timestamp="1553147195393">
+      <file name="/scratch.py" timestamp="1553150046703">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/scratches/main.py" timestamp="1553148157455">
-        <mark key="[" line="0" column="0" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/main.py" timestamp="1553150104487">
+        <mark key="u" line="2" column="5" />
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="5" />
+        <mark key="." line="2" column="5" />
       </file>
     </filemarks>
     <jumps />
-    <registers />
+    <registers>
+      <register name="&quot;" type="4">
+        <text>n</text>
+      </register>
+      <register name="-" type="4">
+        <text>n</text>
+      </register>
+    </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
