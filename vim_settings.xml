@@ -9,16 +9,19 @@
       <file name="/Dummy.txt" timestamp="1553149703805">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/main.py" timestamp="1553150046906">
+      <file name="/main.py" timestamp="1553222901700">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/hacklib.py" timestamp="1553153447011">
+      <file name="/hacklib.py" timestamp="1553222902028">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1553150210055">
+      <file name="/Python Console" timestamp="1553223221736">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="9" />
+        <mark key="." line="0" column="0" />
       </file>
-      <file name="/scratch.py" timestamp="1553150046703">
+      <file name="/scratch.py" timestamp="1553222901278">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/scratches/main.py" timestamp="1553153652299">
@@ -37,10 +40,10 @@
     <jumps />
     <registers>
       <register name="&quot;" type="4">
-        <text>LanSc</text>
+        <text>b</text>
       </register>
       <register name="-" type="4">
-        <text>LanSc</text>
+        <text>b</text>
       </register>
     </registers>
     <search>
